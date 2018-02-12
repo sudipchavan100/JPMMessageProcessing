@@ -1,5 +1,4 @@
 /**
- * Created by karthikeyan Yegappan on 13/02/17.
  *
  * Class Name: SalesMessageProcessor
  *      This class contains the main program to run the application.
